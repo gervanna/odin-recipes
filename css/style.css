@@ -1,0 +1,24 @@
+html * {
+    font-family: Monaco, sans-serif;
+}
+.homepage {
+    margin-top: 35px;
+    text-align: center;
+}
+.no-bullets {
+    list-style-type: none;
+}
+
+.intro {
+    text-align: center;
+}
+
+.back {
+    float: right;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: hsl(120, 44%, 57%);
+    padding: 8px;
+    border-radius: 8px;
+    box-shadow: rgb(0, 0, 0);
+}
